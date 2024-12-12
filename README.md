@@ -1,7 +1,7 @@
 # Form Validation Script
 ## Overview
 
-**This script provides a comprehensive form validation mechanism using plain JavaScript. It validates multiple fields within a form and displays appropriate error messages if the user inputs invalid data. The script also includes a reset feature to clear all input fields and error messages.**
+**This script provides a comprehensive form validation mechanism using plain JavaScript Logic. It validates multiple fields within a form withiout using ```<form>``` Tag just using ```<input>``` and displays appropriate error messages if the user inputs invalid data. The Code also includes a reset feature to clear all input fields and error messages.**
 
 ## Features
 * Name Validation: Ensures the 'Name' field is not empty.
